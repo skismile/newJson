@@ -70,5 +70,12 @@
         "email": "ioffen9@slideshare.net",
         "gender": "Male"
       }
+    ],
+
+    "login_user_data":[
+      {
+        "email":"sk.ismile75@gmail.com",
+        "password":"masai@123"
+      }
     ]
   }
