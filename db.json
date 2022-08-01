@@ -84,7 +84,7 @@
 {
   "id":1,
   "name":"john",
-  "Hospita":"Sakra",
+  "Hospital":"Sakra",
   "Specialisation":"Nephrology",
   "salary":2400000,
   "Details":"More"
@@ -94,7 +94,7 @@
 {
   "id":2,
   "name":"Aditya",
-  "Hospita":"Manipal",
+  "Hospital":"Manipal",
   "Specialisation":"General",
   "salary":2000000,
   "Details":"More"
