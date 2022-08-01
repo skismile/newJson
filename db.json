@@ -78,5 +78,38 @@
         "email":"sk.ismile75@gmail.com",
         "password":"masai@123"
       }
-    ]
+    ],
+"doctor":[
+
+{
+  "id":1,
+  "name":"john",
+  "Hospita":"Sakra",
+  "Specialisation":"Nephrology",
+  "salary":2400000,
+  "Details":"More"
+
+},
+
+{
+  "id":2,
+  "name":"Aditya",
+  "Hospita":"Manipal",
+  "Specialisation":"General",
+  "salary":2000000,
+  "Details":"More"
+
+},
+{
+  "id":3,
+  "name":"Kanav",
+  "Hospital":"Manipal",
+  "Specialisation":"Radiologist",
+  "salary":3000000,
+  "Details":"More"
+
+}
+
+]
+
   }
