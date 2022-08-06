@@ -130,33 +130,8 @@
     
     }
 
-],
-
-"employData":[
-  {
-      "name": "SK ISMILE",
-      "age": "25",
-      "Address": "Midnapore,West Bengal,721101",
-      "Department": "FSD",
-      "Salary": "900000",
-      "marital_state": false,
-     "profile_photo": "https://media-exp1.licdn.com/dms/image/C4E03AQE8UozSn8sl3w/profile-displayphoto-shrink_400_400/0/1649146034556?e=1665014400&v=beta&t=N-juLXVwCgrtJSA6APBZGOmDgT84jz8o7bq0GhBYHU0",
-     
-  
-  
-  }, {
-    "name": "SK ISMILE",
-    "age": "25",
-    "Address": "Midnapore,West Bengal,721101",
-    "Department": "FSD",
-    "Salary": "900000",
-    "marital_state": false,
-   "profile_photo": "https://media-exp1.licdn.com/dms/image/C4E03AQE8UozSn8sl3w/profile-displayphoto-shrink_400_400/0/1649146034556?e=1665014400&v=beta&t=N-juLXVwCgrtJSA6APBZGOmDgT84jz8o7bq0GhBYHU0",
-   
+]
 
 
-}
-  
-  ]
 
   }
