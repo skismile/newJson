@@ -152,6 +152,17 @@
       "price" : 100,
       "id" : 3
   }
+],
+"employ_details":[
+  {
+    "name":"sk ismile",
+    "age":25,
+    "address":"Midanpore",
+    "department":"FULLSTACK",
+    "salary":2000000,
+    "merital_state":false,
+    "profile_photo":"https://media-exp1.licdn.com/dms/image/C4E03AQE8UozSn8sl3w/profile-displayphoto-shrink_100_100/0/1649146034556?e=1665619200&v=beta&t=W2yA7MErPtQ1-2HL3sla2qGZDSxO7qZafKdbe1t56lo"
+  }
 ]
 
 
